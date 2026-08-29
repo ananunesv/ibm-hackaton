@@ -39,7 +39,7 @@ Bob (in Agent mode, with human approval at each step) was asked to:
 
 Bob read the repository, executed diagnostic commands, identified the root
 cause, applied the fix, validated the outcome, and generated a detailed
-incident report — all from a single natural-language prompt.
+incident report through an interactive natural-language Agent session.
 
 ---
 
